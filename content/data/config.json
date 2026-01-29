@@ -10,11 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
             },
@@ -27,23 +22,40 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.instagram.com/milica_katich/",
+                "icon": "instagram",
+                "elementId": ""
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/linkedin.com/in/milicakatić",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.facebook.com/kamilitzart/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/Milica_Katić_U_nedogled_ulje_platnu_40x60cm_2024-ikonica-za-sajt.jpg",
+            "altText": "Ad Infinitum",
+            "caption": "Ad infinitum, oil on canvas, 60x40cm, 2024",
+            "elementId": ""
         }
     },
     "footer": {
