@@ -27,6 +27,14 @@
                 "url": "/https://www.instagram.com/milica_katich/",
                 "icon": "instagram",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/linkedin.com/in/milicakatić",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
