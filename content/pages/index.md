@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Milica Katić
-    subtitle: potrfolio
+    subtitle: portfolio
     styles:
       self:
         height: auto
