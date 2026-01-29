@@ -10,13 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": "",
-                "showIcon": true
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
             },
